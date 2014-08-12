@@ -4,19 +4,15 @@ Boltzmann Machines (BMs) are a particular form of energy-based model which
 contain hidden variables. Restricted Boltzmann Machines further restrict BMs
 to those without visible-visible and hidden-hidden connections.
 """
-import cPickle
-import gzip
 import time
-import PIL.Image
-
-import numpy
-
-import theano
-import theano.tensor as T
 import os
 
+import numpy
+import theano
+import theano.tensor as T
 from theano.tensor.shared_randomstreams import RandomStreams
 
+import PIL.Image
 from utils import tile_raster_images
 from logistic_sgd import load_data
 
