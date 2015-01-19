@@ -32,60 +32,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TheBasics.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myLearnPython/numpy/TheBasics.py">
+      <file leaf-file-name="BasicFunction.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/myLearnPython/scipy/BasicFunction.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0" vertical-offset="1440" max-vertical-offset="2256">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FancyIndexingAndIndexTricks.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myLearnPython/numpy/FancyIndexingAndIndexTricks.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="89" column="0" selection-start="1808" selection-end="1808" vertical-scroll-proportion="0.0" vertical-offset="1802" max-vertical-offset="2304">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LinearAlgebra.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myLearnPython/numpy/LinearAlgebra.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="0" selection-start="953" selection-end="953" vertical-scroll-proportion="0.0" vertical-offset="863" max-vertical-offset="1536">
+            <state line="16" column="0" selection-start="216" selection-end="216" vertical-scroll-proportion="0.3880926" vertical-offset="0" max-vertical-offset="907">
               <folding>
-                <element signature="e#52#71#0" expanded="true" />
+                <element signature="e#78#96#0" expanded="true" />
+                <marker date="1421634707148" expanded="true" signature="191:215" placeholder="&quot;&quot;&quot;...&quot;&quot;&quot;" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TricksAndTips.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/myLearnPython/numpy/TricksAndTips.py">
+      <file leaf-file-name="SpecialFunciton.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myLearnPython/scipy/SpecialFunciton.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="11" selection-start="567" selection-end="567" vertical-scroll-proportion="0.8678899" vertical-offset="319" max-vertical-offset="936">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ShapeManipulation.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myLearnPython/numpy/ShapeManipulation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0" vertical-offset="384" max-vertical-offset="1200">
+            <state line="14" column="0" selection-start="483" selection-end="483" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="682">
               <folding>
-                <element signature="e#52#71#0" expanded="true" />
+                <marker date="1421634239802" expanded="true" signature="52:96" placeholder="import ..." />
+                <marker date="1421634239802" expanded="true" signature="144:260" placeholder="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CopyAndViews.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myLearnPython/numpy/CopyAndViews.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1176">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -121,13 +87,18 @@
         <option value="$PROJECT_DIR$/myLearnPython/numpy/FancyIndexingAndIndexTricks.py" />
         <option value="$PROJECT_DIR$/myLearnPython/numpy/LinearAlgebra.py" />
         <option value="$PROJECT_DIR$/myLearnPython/numpy/TricksAndTips.py" />
+        <option value="$PROJECT_DIR$/myLearnScipy/BasicFunction.py" />
+        <option value="$PROJECT_DIR$/myLearnPython/scipy/BasicFuntion.py" />
+        <option value="$PROJECT_DIR$/myLearnPython/scipy/SpecialFunciton.py" />
+        <option value="$PROJECT_DIR$/myLearnPython/scipy/BasicFunction.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="687" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="x" value="807" />
+    <option name="y" value="1" />
+    <option name="width" value="1400" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -171,6 +142,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -185,7 +157,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="theano" />
+              <option name="myItemId" value="Theano-in-Action-to-implement-Deep-Learning-Algorithm" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -195,7 +167,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="theano" />
+              <option name="myItemId" value="Theano-in-Action-to-implement-Deep-Learning-Algorithm" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -209,7 +181,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Theano-in-Action-to-implement-Deep-Learning-Algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myLearnPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scipy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
               <option name="myItemId" value="theano" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Theano-in-Action-to-implement-Deep-Learning-Algorithm" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -223,14 +213,13 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../CCF/news_recommend/code" />
+    <property name="last_opened_file_path" value="E:/Python27/python.exe" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="preferences.pluginManager" />
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -239,7 +228,10 @@
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
-      <console-settings />
+      <console-settings module-name="theano" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="theano" />
+      </console-settings>
     </option>
   </component>
   <component name="RecentsManager">
@@ -247,28 +239,7 @@
       <recent name="E:\postgraduateLearning\Plan-Action\需要的东西\Learn\MachineLearning\theano\myLearnPython\numpy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.TricksAndTips">
-    <configuration default="false" name="rbm" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearningTutorials/code" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="theano" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearningTutorials/code/rbm.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.SpecialFunciton">
     <configuration default="false" name="convolutional_mlp" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -472,20 +443,40 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="SpecialFunciton" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myLearnPython/scipy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="theano" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myLearnPython/scipy/SpecialFunciton.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.rbm" />
+      <item index="0" class="java.lang.String" itemvalue="Python.SpecialFunciton" />
       <item index="1" class="java.lang.String" itemvalue="Python.convolutional_mlp" />
       <item index="2" class="java.lang.String" itemvalue="Python.TheBasics" />
       <item index="3" class="java.lang.String" itemvalue="Python.LinearAlgebra" />
       <item index="4" class="java.lang.String" itemvalue="Python.TricksAndTips" />
     </list>
     <recent_temporary>
-      <list size="5">
+      <list size="4">
         <item index="0" class="java.lang.String" itemvalue="Python.TricksAndTips" />
         <item index="1" class="java.lang.String" itemvalue="Python.LinearAlgebra" />
         <item index="2" class="java.lang.String" itemvalue="Python.TheBasics" />
         <item index="3" class="java.lang.String" itemvalue="Python.convolutional_mlp" />
-        <item index="4" class="java.lang.String" itemvalue="Python.rbm" />
       </list>
     </recent_temporary>
   </component>
@@ -499,27 +490,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="687" y="0" width="1382" height="744" extended-state="0" />
+    <frame x="807" y="1" width="1400" height="1040" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12664714" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24444444" sideWeight="0.4997281" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17413294" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24" sideWeight="0.4997281" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.092929296" sideWeight="0.5002719" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.096062995" sideWeight="0.4997281" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2280514" sideWeight="0.4997281" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="UnknownFeatures">
@@ -656,29 +647,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/myLearnTheano/GettingStarted.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1015" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myLearnTheano/CopyRandomState.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="29" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0" vertical-offset="319" max-vertical-offset="1247">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/code/dA.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="0" selection-start="1708" selection-end="1708" vertical-scroll-proportion="0.0" vertical-offset="1247" max-vertical-offset="10759">
-          <folding>
-            <element signature="e#1823#2766#1" expanded="false" />
-            <element signature="e#2933#5137#1" expanded="false" />
-            <element signature="e#7316#8437#1" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/code/rbm.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="224" column="39" selection-start="9857" selection-end="9857" vertical-scroll-proportion="0.0" vertical-offset="6496" max-vertical-offset="10875">
@@ -688,9 +656,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/myLearnTheano/RandomNumbers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="24" selection-start="443" selection-end="443" vertical-scroll-proportion="0.0" vertical-offset="522" max-vertical-offset="1566">
-          <folding />
-        </state>
+        <state line="18" column="24" selection-start="443" selection-end="443" vertical-scroll-proportion="0.0" vertical-offset="522" max-vertical-offset="1566" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/code/DBN.py">
@@ -719,23 +685,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/code/logistic_cg.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8439">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8439" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/code/hmc/hmc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="11948">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="11948" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myLearnTheano/SharedVariables.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1102">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1102" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myLearnTheano/LogisticRegression.py">
@@ -786,16 +746,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/code/logistic_cg.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8439">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8439" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/code/hmc/hmc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="11948">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="11948" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myLearnTheano/NumPyRefresh.py">
@@ -825,16 +781,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/myLearnTheano/RandomNumbers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="24" selection-start="443" selection-end="443" vertical-scroll-proportion="0.0" vertical-offset="522" max-vertical-offset="1566">
-          <folding />
-        </state>
+        <state line="18" column="24" selection-start="443" selection-end="443" vertical-scroll-proportion="0.0" vertical-offset="522" max-vertical-offset="1566" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myLearnTheano/SharedVariables.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="13" selection-start="479" selection-end="479" vertical-scroll-proportion="0.0" vertical-offset="348" max-vertical-offset="1044">
-          <folding />
-        </state>
+        <state line="20" column="13" selection-start="479" selection-end="479" vertical-scroll-proportion="0.0" vertical-offset="348" max-vertical-offset="1044" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/code/rbm.py">
@@ -871,49 +823,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/code/logistic_cg.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="70" selection-start="66" selection-end="75" vertical-scroll-proportion="0.041237112" vertical-offset="0" max-vertical-offset="6720">
-          <folding />
-        </state>
+        <state line="1" column="70" selection-start="66" selection-end="75" vertical-scroll-proportion="0.041237112" vertical-offset="0" max-vertical-offset="6720" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/code/mlp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8448">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8448" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/code/utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="28" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="696">
-          <folding>
-            <element signature="e#731#5076#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="0" column="28" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="696" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/code/hmc/hmc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/code/midi/constants.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="29" selection-end="29" vertical-scroll-proportion="0.04217926" vertical-offset="0" max-vertical-offset="5184">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/code/hmc/test_hmc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="0" selection-start="1801" selection-end="1801" vertical-scroll-proportion="0.35643566" vertical-offset="0" max-vertical-offset="606">
-          <folding>
-            <element signature="e#0#12#0" expanded="false" />
-            <element signature="e#155#1799#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="54" column="0" selection-start="1801" selection-end="1801" vertical-scroll-proportion="0.35643566" vertical-offset="0" max-vertical-offset="606" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/code/logistic_sgd.py">
@@ -928,21 +858,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/myLearnTheano/Algebra.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1320">
-          <folding>
-            <element signature="e#107#120#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="6" column="0" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1320" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/code/convolutional_mlp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="126" column="18" selection-start="4692" selection-end="4692" vertical-scroll-proportion="0.5148515" vertical-offset="1296" max-vertical-offset="6000">
-          <folding>
-            <element signature="e#928#942#0" expanded="true" />
-            <element signature="e#1381#4002#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="126" column="18" selection-start="4692" selection-end="4692" vertical-scroll-proportion="0.5148515" vertical-offset="1296" max-vertical-offset="6000" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myLearnTheano/CopyRandomState.py">
@@ -954,94 +875,93 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="36" selection-start="593" selection-end="593" vertical-scroll-proportion="0.47524753" vertical-offset="0" max-vertical-offset="606">
-          <folding />
-        </state>
+        <state line="12" column="36" selection-start="593" selection-end="593" vertical-scroll-proportion="0.47524753" vertical-offset="0" max-vertical-offset="606" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myLearnTheano/GettingStarted.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="490" selection-end="490" vertical-scroll-proportion="0.44554454" vertical-offset="186" max-vertical-offset="840">
-          <folding>
-            <element signature="e#39#66#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="19" column="0" selection-start="490" selection-end="490" vertical-scroll-proportion="0.44554454" vertical-offset="186" max-vertical-offset="840" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/code/cA.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="65" selection-start="819" selection-end="819" vertical-scroll-proportion="0.47524753" vertical-offset="0" max-vertical-offset="7080">
-          <folding />
-        </state>
+        <state line="12" column="65" selection-start="819" selection-end="819" vertical-scroll-proportion="0.47524753" vertical-offset="0" max-vertical-offset="7080" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/code/rnnrbm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="39" selection-start="382" selection-end="382" vertical-scroll-proportion="0.3960396" vertical-offset="0" max-vertical-offset="6840">
-          <folding />
-        </state>
+        <state line="14" column="39" selection-start="382" selection-end="382" vertical-scroll-proportion="0.3960396" vertical-offset="0" max-vertical-offset="6840" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/code/SdA.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="10536">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="10536" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/code/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6192">
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-            <element signature="e#1172#9856#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myLearnPython/numpy/CopyAndViews.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1176">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6192" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myLearnPython/numpy/TheBasics.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0" vertical-offset="1440" max-vertical-offset="2256">
-          <folding />
-        </state>
+        <state line="3" column="0" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0" vertical-offset="1440" max-vertical-offset="2256" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myLearnPython/numpy/FancyIndexingAndIndexTricks.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="89" column="0" selection-start="1808" selection-end="1808" vertical-scroll-proportion="0.0" vertical-offset="1802" max-vertical-offset="2304">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myLearnPython/numpy/LinearAlgebra.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="0" selection-start="953" selection-end="953" vertical-scroll-proportion="0.0" vertical-offset="863" max-vertical-offset="1536">
-          <folding>
-            <element signature="e#52#71#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="89" column="0" selection-start="1808" selection-end="1808" vertical-scroll-proportion="0.0" vertical-offset="1802" max-vertical-offset="2304" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myLearnPython/numpy/ShapeManipulation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0" vertical-offset="24" max-vertical-offset="1200">
-          <folding>
-            <element signature="e#52#71#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="3" column="0" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0" vertical-offset="24" max-vertical-offset="1200" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myLearnPython/numpy/TricksAndTips.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="11" selection-start="567" selection-end="567" vertical-scroll-proportion="0.8678899" vertical-offset="319" max-vertical-offset="936">
+        <state line="11" column="14" selection-start="147" selection-end="147" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="858" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myLearnPython/numpy/CopyAndViews.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="14" selection-start="140" selection-end="140" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1078" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myLearnPython/numpy/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="176" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myLearnPython/numpy/LinearAlgebra.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="0" selection-start="953" selection-end="953" vertical-scroll-proportion="0.8302095" vertical-offset="479" max-vertical-offset="1386" />
+      </provider>
+    </entry>
+    <entry file="file://E:/Python27/Lib/site-packages/mpl_toolkits/mplot3d/axes3d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1658" column="0" selection-start="57560" selection-end="57560" vertical-scroll-proportion="0.33333334" vertical-offset="35721" max-vertical-offset="57882">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myLearnPython/scipy/SpecialFunciton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="483" selection-end="483" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="682">
+          <folding>
+            <marker date="1421634239802" expanded="true" signature="52:96" placeholder="import ..." />
+            <marker date="1421634239802" expanded="true" signature="144:260" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myLearnPython/scipy/BasicFunction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="216" selection-end="216" vertical-scroll-proportion="0.3880926" vertical-offset="0" max-vertical-offset="907">
+          <folding>
+            <element signature="e#78#96#0" expanded="true" />
+            <marker date="1421634707148" expanded="true" signature="191:215" placeholder="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+          </folding>
         </state>
       </provider>
     </entry>
