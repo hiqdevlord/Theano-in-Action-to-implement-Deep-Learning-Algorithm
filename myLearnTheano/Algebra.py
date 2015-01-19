@@ -1,6 +1,10 @@
 # coding: utf-8
 #__author__ = cmathx
 
+#theano.tensor.dscalar
+#theano.tensor.dmatrix
+#theano.tensor.vector
+
 import theano
 import theano.tensor as T
 from theano import *
